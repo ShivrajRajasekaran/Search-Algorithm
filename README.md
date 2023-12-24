@@ -73,8 +73,8 @@ else:
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
-Developed by: Beatrice Thomas
-RegisterNumber: 23005036
+Developed by: SHIVRAJ R
+RegisterNumber: 23013397
 
 def BinarySearch(array, k, low, high):
     if high>=low:
